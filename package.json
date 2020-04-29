@@ -1,0 +1,19 @@
+{
+  "name": "cometd-client",
+  "version": "1.0.0",
+  "description": "A cometD client to subscribe to Salesforce platform event",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dhaval Heruwala",
+  "license": "MIT",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "dependencies": {
+    "cometd": "^5.0.0",
+    "cometd-nodejs-client": "^1.1.0"
+  }
+}

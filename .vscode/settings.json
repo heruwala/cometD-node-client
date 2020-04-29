@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/16c4dd37-f2b2-436b-b34c-ce4da8552d22/resourceGroups/SFDX/providers/Microsoft.Web/sites/Platform-events",
+    "appService.deploySubpath": ""
+}
